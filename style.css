@@ -14,3 +14,13 @@ body{
  padding: auto;
  
 }
+
+
+.text-1{
+ font-size: 40px;
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ font-weight: 800;
+ font-style: normal;
+ font-display: center;
+ padding-top: 40%;
+}
