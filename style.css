@@ -1,0 +1,16 @@
+body{
+ background: #fff;
+}
+
+#text{
+ color: #fff;
+ background-color: #42cef5;
+ width: 20em;
+ height: 20em;
+ align-items: center;
+ align-self: center;
+ text-align: center;
+ margin: auto;
+ padding: auto;
+ 
+}
